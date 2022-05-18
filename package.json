@@ -9,7 +9,7 @@
     "build:chains": "node scripts/build-chains.js"
   },
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.27.2",
     "next": "12.1.4",
     "node-cache": "^5.1.2",
     "node-fetch": "^3.2.3",
